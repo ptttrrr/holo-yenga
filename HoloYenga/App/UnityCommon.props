@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>HoloYenga</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\projects\HoloJenga\HoloJenga.Unity\HoloYenga\App\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\projects\HoloJenga\HoloJenga.Unity\HoloYenga\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
